@@ -1,3 +1,10 @@
+/*
+	Jacob Barr & Zheng Wei
+	CSCI 350 - Final Project
+	Fractal Tree Using Truncated Cone
+	4/12/2019
+*/
+
 #include <math.h>
 #include "iostream"
 
